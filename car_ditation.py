@@ -1,7 +1,7 @@
 import cv2
 
 img_file = 'car_image.jpg'
-video = cv2.VideoCapture('videoplayback.mp4')
+video = cv2.VideoCapture('#your video file name#')
 #video = cv2.VideoCapture('g20.mp4')
 
 car_tracker_file = 'cars.xml'
